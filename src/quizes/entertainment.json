@@ -1,0 +1,129 @@
+{
+  "id": "entertainment",
+  "title": "Entertainment Quiz",
+  "description": "Test your knowledge of movies, TV shows, music, and pop culture.",
+  "difficulty": "Medium",
+  "timeLimit": 300,
+  "questions": [
+    {
+      "id": "ent-q1",
+      "question": "Which film won the Academy Award for Best Picture in 2020?",
+      "options": [
+        "1917",
+        "Joker",
+        "Parasite",
+        "Once Upon a Time in Hollywood"
+      ],
+      "correctAnswer": "Parasite",
+      "explanation": "Parasite, directed by Bong Joon-ho, became the first non-English language film to win the Academy Award for Best Picture in 2020."
+    },
+    {
+      "id": "ent-q2",
+      "question": "Who played the character of Tony Stark/Iron Man in the Marvel Cinematic Universe?",
+      "options": [
+        "Chris Evans",
+        "Chris Hemsworth",
+        "Mark Ruffalo",
+        "Robert Downey Jr."
+      ],
+      "correctAnswer": "Robert Downey Jr.",
+      "explanation": "Robert Downey Jr. portrayed Tony Stark/Iron Man in the Marvel Cinematic Universe from 2008 to 2019."
+    },
+    {
+      "id": "ent-q3",
+      "question": "Which band released the album 'Abbey Road'?",
+      "options": [
+        "The Rolling Stones",
+        "The Beatles",
+        "Led Zeppelin",
+        "Pink Floyd"
+      ],
+      "correctAnswer": "The Beatles",
+      "explanation": "Abbey Road was the eleventh studio album by the English rock band The Beatles, released in 1969."
+    },
+    {
+      "id": "ent-q4",
+      "question": "Which TV series features characters named Walter White and Jesse Pinkman?",
+      "options": [
+        "The Sopranos",
+        "Breaking Bad",
+        "The Wire",
+        "Better Call Saul"
+      ],
+      "correctAnswer": "Breaking Bad",
+      "explanation": "Breaking Bad is an American neo-Western crime drama television series that featured Walter White (played by Bryan Cranston) and Jesse Pinkman (played by Aaron Paul)."
+    },
+    {
+      "id": "ent-q5",
+      "question": "Who is the author of the Harry Potter book series?",
+      "options": [
+        "J.R.R. Tolkien",
+        "J.K. Rowling",
+        "George R.R. Martin",
+        "Stephen King"
+      ],
+      "correctAnswer": "J.K. Rowling",
+      "explanation": "J.K. Rowling is the author of the Harry Potter fantasy series, which has become one of the best-selling book series in history."
+    },
+    {
+      "id": "ent-q6",
+      "question": "Which artist painted 'Starry Night'?",
+      "options": [
+        "Pablo Picasso",
+        "Claude Monet",
+        "Vincent van Gogh",
+        "Leonardo da Vinci"
+      ],
+      "correctAnswer": "Vincent van Gogh",
+      "explanation": "Starry Night is an oil on canvas painting by the Dutch post-impressionist painter Vincent van Gogh, painted in June 1889."
+    },
+    {
+      "id": "ent-q7",
+      "question": "Which of these is NOT one of the Friends characters?",
+      "options": [
+        "Ross Geller",
+        "Joey Tribbiani",
+        "Mike Hannigan",
+        "Chandler Bing"
+      ],
+      "correctAnswer": "Mike Hannigan",
+      "explanation": "Mike Hannigan (played by Paul Rudd) was Phoebe's boyfriend and later husband, but not one of the six main Friends characters."
+    },
+    {
+      "id": "ent-q8",
+      "question": "Who directed the film 'Jurassic Park'?",
+      "options": [
+        "James Cameron",
+        "Steven Spielberg",
+        "George Lucas",
+        "Christopher Nolan"
+      ],
+      "correctAnswer": "Steven Spielberg",
+      "explanation": "Jurassic Park is a 1993 American science fiction adventure film directed by Steven Spielberg."
+    },
+    {
+      "id": "ent-q9",
+      "question": "Which singer has the nickname 'The Queen of Pop'?",
+      "options": [
+        "Beyoncé",
+        "Lady Gaga",
+        "Madonna",
+        "Whitney Houston"
+      ],
+      "correctAnswer": "Madonna",
+      "explanation": "Madonna is often referred to as 'The Queen of Pop' and is considered one of the most influential figures in popular culture."
+    },
+    {
+      "id": "ent-q10",
+      "question": "Which video game franchise features a character named Master Chief?",
+      "options": [
+        "Call of Duty",
+        "Halo",
+        "Gears of War",
+        "Destiny"
+      ],
+      "correctAnswer": "Halo",
+      "explanation": "Master Chief is the main protagonist and playable character in the Halo video game franchise developed by Bungie and 343 Industries."
+    }
+  ]
+}

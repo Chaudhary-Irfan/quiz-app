@@ -1,0 +1,129 @@
+{
+  "id": "history",
+  "title": "History Quiz",
+  "description": "Test your knowledge of historical events, figures, and periods.",
+  "difficulty": "Medium",
+  "timeLimit": 300,
+  "questions": [
+    {
+      "id": "hist-q1",
+      "question": "In which year did World War I begin?",
+      "options": [
+        "1914",
+        "1916",
+        "1918",
+        "1920"
+      ],
+      "correctAnswer": "1914",
+      "explanation": "World War I began on July 28, 1914, and lasted until November 11, 1918."
+    },
+    {
+      "id": "hist-q2",
+      "question": "Who was the first President of the United States?",
+      "options": [
+        "Thomas Jefferson",
+        "John Adams",
+        "George Washington",
+        "Benjamin Franklin"
+      ],
+      "correctAnswer": "George Washington",
+      "explanation": "George Washington served as the first President of the United States from 1789 to 1797."
+    },
+    {
+      "id": "hist-q3",
+      "question": "The ancient city of Rome was built on how many hills?",
+      "options": [
+        "Five",
+        "Six",
+        "Seven",
+        "Nine"
+      ],
+      "correctAnswer": "Seven",
+      "explanation": "Rome was built on seven hills: Aventine, Caelian, Capitoline, Esquiline, Palatine, Quirinal, and Viminal."
+    },
+    {
+      "id": "hist-q4",
+      "question": "Which civilization built the Machu Picchu complex in Peru?",
+      "options": [
+        "Aztec",
+        "Maya",
+        "Inca",
+        "Olmec"
+      ],
+      "correctAnswer": "Inca",
+      "explanation": "Machu Picchu was built by the Inca Empire in the 15th century and is now one of the most famous archaeological sites in the world."
+    },
+    {
+      "id": "hist-q5",
+      "question": "Who was the first woman to win a Nobel Prize?",
+      "options": [
+        "Marie Curie",
+        "Rosalind Franklin",
+        "Florence Nightingale",
+        "Ada Lovelace"
+      ],
+      "correctAnswer": "Marie Curie",
+      "explanation": "Marie Curie was the first woman to win a Nobel Prize, winning the Physics Prize in 1903 and the Chemistry Prize in 1911."
+    },
+    {
+      "id": "hist-q6",
+      "question": "The French Revolution began in which year?",
+      "options": [
+        "1769",
+        "1779",
+        "1789",
+        "1799"
+      ],
+      "correctAnswer": "1789",
+      "explanation": "The French Revolution began in 1789 with the storming of the Bastille on July 14."
+    },
+    {
+      "id": "hist-q7",
+      "question": "Which empire was ruled by Genghis Khan?",
+      "options": [
+        "Ottoman Empire",
+        "Mongol Empire",
+        "Roman Empire",
+        "Persian Empire"
+      ],
+      "correctAnswer": "Mongol Empire",
+      "explanation": "Genghis Khan founded and ruled the Mongol Empire, which became the largest contiguous land empire in history."
+    },
+    {
+      "id": "hist-q8",
+      "question": "The Renaissance period began in which country?",
+      "options": [
+        "France",
+        "England",
+        "Italy",
+        "Spain"
+      ],
+      "correctAnswer": "Italy",
+      "explanation": "The Renaissance began in Italy in the 14th century before spreading to the rest of Europe."
+    },
+    {
+      "id": "hist-q9",
+      "question": "Which document, signed in 1215, is considered one of the most important documents in the development of constitutional government?",
+      "options": [
+        "The Declaration of Independence",
+        "The Magna Carta",
+        "The Treaty of Versailles",
+        "The Bill of Rights"
+      ],
+      "correctAnswer": "The Magna Carta",
+      "explanation": "The Magna Carta, signed by King John of England in 1215, established the principle that everyone, including the king, was subject to the law."
+    },
+    {
+      "id": "hist-q10",
+      "question": "Which ancient wonder was located in Alexandria, Egypt?",
+      "options": [
+        "The Hanging Gardens",
+        "The Colossus of Rhodes",
+        "The Lighthouse (Pharos)",
+        "The Temple of Artemis"
+      ],
+      "correctAnswer": "The Lighthouse (Pharos)",
+      "explanation": "The Lighthouse of Alexandria, also known as the Pharos, was one of the Seven Wonders of the Ancient World and was located in Alexandria, Egypt."
+    }
+  ]
+}

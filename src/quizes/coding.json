@@ -1,0 +1,129 @@
+{
+  "id": "coding",
+  "title": "Coding Quiz",
+  "description": "Test your knowledge of programming languages, concepts, and software development.",
+  "difficulty": "Hard",
+  "timeLimit": 300,
+  "questions": [
+    {
+      "id": "code-q1",
+      "question": "Which of the following is NOT a JavaScript data type?",
+      "options": [
+        "String",
+        "Boolean",
+        "Float",
+        "Symbol"
+      ],
+      "correctAnswer": "Float",
+      "explanation": "JavaScript does not have a specific 'Float' data type. It uses 'Number' for both integers and floating-point numbers."
+    },
+    {
+      "id": "code-q2",
+      "question": "What does CSS stand for?",
+      "options": [
+        "Computer Style Sheets",
+        "Creative Style Sheets",
+        "Cascading Style Sheets",
+        "Colorful Style Sheets"
+      ],
+      "correctAnswer": "Cascading Style Sheets",
+      "explanation": "CSS stands for Cascading Style Sheets, which is a style sheet language used for describing the presentation of a document written in HTML."
+    },
+    {
+      "id": "code-q3",
+      "question": "Which of these is NOT a programming paradigm?",
+      "options": [
+        "Object-Oriented Programming",
+        "Functional Programming",
+        "Procedural Programming",
+        "Descriptive Programming"
+      ],
+      "correctAnswer": "Descriptive Programming",
+      "explanation": "Descriptive Programming is not a recognized programming paradigm. The main paradigms include Object-Oriented, Functional, Procedural, and Declarative."
+    },
+    {
+      "id": "code-q4",
+      "question": "What is the time complexity of binary search?",
+      "options": [
+        "O(1)",
+        "O(n)",
+        "O(log n)",
+        "O(n²)"
+      ],
+      "correctAnswer": "O(log n)",
+      "explanation": "Binary search has a time complexity of O(log n), making it much more efficient than linear search for large datasets."
+    },
+    {
+      "id": "code-q5",
+      "question": "Which of the following is a NoSQL database?",
+      "options": [
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
+        "Oracle"
+      ],
+      "correctAnswer": "MongoDB",
+      "explanation": "MongoDB is a NoSQL database that uses a document-oriented data model, while MySQL, PostgreSQL, and Oracle are relational databases."
+    },
+    {
+      "id": "code-q6",
+      "question": "What does API stand for?",
+      "options": [
+        "Application Programming Interface",
+        "Application Process Integration",
+        "Automated Program Interface",
+        "Application Protocol Interface"
+      ],
+      "correctAnswer": "Application Programming Interface",
+      "explanation": "API stands for Application Programming Interface, which is a set of rules that allows different software applications to communicate with each other."
+    },
+    {
+      "id": "code-q7",
+      "question": "Which of these is NOT a version control system?",
+      "options": [
+        "Git",
+        "Mercurial",
+        "Docker",
+        "Subversion"
+      ],
+      "correctAnswer": "Docker",
+      "explanation": "Docker is a platform for developing, shipping, and running applications in containers, not a version control system. Git, Mercurial, and Subversion are version control systems."
+    },
+    {
+      "id": "code-q8",
+      "question": "What is the correct HTML element for the largest heading?",
+      "options": [
+        "<heading>",
+        "<h1>",
+        "<head>",
+        "<h6>"
+      ],
+      "correctAnswer": "<h1>",
+      "explanation": "The <h1> element is used for the largest heading in HTML. Headings range from <h1> (largest) to <h6> (smallest)."
+    },
+    {
+      "id": "code-q9",
+      "question": "Which programming language is used for Android app development?",
+      "options": [
+        "Swift",
+        "Kotlin",
+        "Objective-C",
+        "C#"
+      ],
+      "correctAnswer": "Kotlin",
+      "explanation": "Kotlin is the preferred language for Android app development. Swift and Objective-C are used for iOS development, while C# is commonly used for Windows applications."
+    },
+    {
+      "id": "code-q10",
+      "question": "What does the acronym 'SOLID' refer to in object-oriented design?",
+      "options": [
+        "Software Development Lifecycle",
+        "Specific Object Language Implementation Design",
+        "Single Responsibility, Open-closed, Liskov substitution, Interface segregation, Dependency inversion",
+        "Structured Object Language for Interface Development"
+      ],
+      "correctAnswer": "Single Responsibility, Open-closed, Liskov substitution, Interface segregation, Dependency inversion",
+      "explanation": "SOLID is an acronym for five design principles in object-oriented programming: Single Responsibility, Open-closed, Liskov substitution, Interface segregation, and Dependency inversion."
+    }
+  ]
+}

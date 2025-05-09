@@ -1,0 +1,129 @@
+{
+  "id": "geography",
+  "title": "Geography Quiz",
+  "description": "Test your knowledge of world geography, countries, capitals, and landmarks.",
+  "difficulty": "Medium",
+  "timeLimit": 300,
+  "questions": [
+    {
+      "id": "geo-q1",
+      "question": "What is the capital of Australia?",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "correctAnswer": "Canberra",
+      "explanation": "Canberra is the capital city of Australia, not Sydney or Melbourne as many people incorrectly assume."
+    },
+    {
+      "id": "geo-q2",
+      "question": "Which is the longest river in the world?",
+      "options": [
+        "Amazon",
+        "Nile",
+        "Mississippi",
+        "Yangtze"
+      ],
+      "correctAnswer": "Nile",
+      "explanation": "The Nile River is generally considered the longest river in the world, flowing for approximately 6,650 kilometers (4,130 miles)."
+    },
+    {
+      "id": "geo-q3",
+      "question": "Which country has the largest land area?",
+      "options": [
+        "China",
+        "United States",
+        "Canada",
+        "Russia"
+      ],
+      "correctAnswer": "Russia",
+      "explanation": "Russia is the largest country by land area, covering approximately 17.1 million square kilometers (6.6 million square miles)."
+    },
+    {
+      "id": "geo-q4",
+      "question": "Which mountain range separates Europe and Asia?",
+      "options": [
+        "Alps",
+        "Himalayas",
+        "Andes",
+        "Ural Mountains"
+      ],
+      "correctAnswer": "Ural Mountains",
+      "explanation": "The Ural Mountains form a natural boundary between Europe and Asia."
+    },
+    {
+      "id": "geo-q5",
+      "question": "Which of these countries is NOT in Africa?",
+      "options": [
+        "Chad",
+        "Suriname",
+        "Namibia",
+        "Mozambique"
+      ],
+      "correctAnswer": "Suriname",
+      "explanation": "Suriname is located in South America, while Chad, Namibia, and Mozambique are all African countries."
+    },
+    {
+      "id": "geo-q6",
+      "question": "What is the smallest country in the world by land area?",
+      "options": [
+        "Monaco",
+        "Nauru",
+        "Vatican City",
+        "Liechtenstein"
+      ],
+      "correctAnswer": "Vatican City",
+      "explanation": "Vatican City is the smallest country in the world, with a total area of approximately 0.49 square kilometers (0.19 square miles)."
+    },
+    {
+      "id": "geo-q7",
+      "question": "Which desert is the largest in the world?",
+      "options": [
+        "Gobi Desert",
+        "Kalahari Desert",
+        "Sahara Desert",
+        "Arabian Desert"
+      ],
+      "correctAnswer": "Sahara Desert",
+      "explanation": "The Sahara Desert is the largest hot desert in the world, covering an area of approximately 9.2 million square kilometers (3.6 million square miles)."
+    },
+    {
+      "id": "geo-q8",
+      "question": "Which of these cities is NOT located on the Mediterranean Sea?",
+      "options": [
+        "Barcelona",
+        "Lisbon",
+        "Marseille",
+        "Alexandria"
+      ],
+      "correctAnswer": "Lisbon",
+      "explanation": "Lisbon is located on the Atlantic Ocean, while Barcelona, Marseille, and Alexandria are all located on the Mediterranean Sea."
+    },
+    {
+      "id": "geo-q9",
+      "question": "Which country has the most natural lakes?",
+      "options": [
+        "United States",
+        "Russia",
+        "Canada",
+        "Finland"
+      ],
+      "correctAnswer": "Canada",
+      "explanation": "Canada has more lakes than any other country in the world, with an estimated 2 million lakes."
+    },
+    {
+      "id": "geo-q10",
+      "question": "The Great Barrier Reef is located off the coast of which country?",
+      "options": [
+        "Brazil",
+        "Australia",
+        "Indonesia",
+        "Philippines"
+      ],
+      "correctAnswer": "Australia",
+      "explanation": "The Great Barrier Reef is the world's largest coral reef system and is located off the coast of Queensland, Australia."
+    }
+  ]
+}

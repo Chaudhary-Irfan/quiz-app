@@ -1,0 +1,129 @@
+{
+  "id": "science",
+  "title": "Science Quiz",
+  "description": "Test your knowledge of scientific concepts, discoveries, and phenomena.",
+  "difficulty": "Medium",
+  "timeLimit": 300,
+  "questions": [
+    {
+      "id": "sci-q1",
+      "question": "What is the chemical symbol for water?",
+      "options": [
+        "WO",
+        "H2O",
+        "W",
+        "HO2"
+      ],
+      "correctAnswer": "H2O",
+      "explanation": "Water is composed of two hydrogen atoms and one oxygen atom, hence the chemical formula H2O."
+    },
+    {
+      "id": "sci-q2",
+      "question": "Which of the following is NOT a state of matter?",
+      "options": [
+        "Solid",
+        "Liquid",
+        "Gas",
+        "Energy"
+      ],
+      "correctAnswer": "Energy",
+      "explanation": "The traditional states of matter are solid, liquid, gas, and plasma. Energy is not a state of matter."
+    },
+    {
+      "id": "sci-q3",
+      "question": "What is the smallest unit of life?",
+      "options": [
+        "Atom",
+        "Cell",
+        "Molecule",
+        "Tissue"
+      ],
+      "correctAnswer": "Cell",
+      "explanation": "The cell is the basic structural and functional unit of all living organisms."
+    },
+    {
+      "id": "sci-q4",
+      "question": "What force keeps planets in orbit around the Sun?",
+      "options": [
+        "Magnetic force",
+        "Nuclear force",
+        "Gravitational force",
+        "Centrifugal force"
+      ],
+      "correctAnswer": "Gravitational force",
+      "explanation": "Gravity is the force that attracts objects with mass toward each other, keeping planets in orbit around the Sun."
+    },
+    {
+      "id": "sci-q5",
+      "question": "What is the speed of light in a vacuum?",
+      "options": [
+        "300,000 km/s",
+        "150,000 km/s",
+        "200,000 km/s",
+        "250,000 km/s"
+      ],
+      "correctAnswer": "300,000 km/s",
+      "explanation": "The speed of light in a vacuum is approximately 299,792,458 meters per second, often rounded to 300,000 kilometers per second."
+    },
+    {
+      "id": "sci-q6",
+      "question": "Which of these is NOT one of Newton's Laws of Motion?",
+      "options": [
+        "An object in motion stays in motion unless acted upon by an external force",
+        "Force equals mass times acceleration",
+        "For every action, there is an equal and opposite reaction",
+        "Energy can neither be created nor destroyed"
+      ],
+      "correctAnswer": "Energy can neither be created nor destroyed",
+      "explanation": "The statement 'Energy can neither be created nor destroyed' is the Law of Conservation of Energy, not one of Newton's Laws of Motion."
+    },
+    {
+      "id": "sci-q7",
+      "question": "What is the main function of DNA?",
+      "options": [
+        "Energy storage",
+        "Protein synthesis",
+        "Genetic information storage",
+        "Cell structure"
+      ],
+      "correctAnswer": "Genetic information storage",
+      "explanation": "DNA (deoxyribonucleic acid) is the molecule that carries the genetic instructions for the development, functioning, growth, and reproduction of all known organisms."
+    },
+    {
+      "id": "sci-q8",
+      "question": "Which element is the most abundant in the Earth's atmosphere?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "correctAnswer": "Nitrogen",
+      "explanation": "Nitrogen makes up approximately 78% of the Earth's atmosphere, making it the most abundant element."
+    },
+    {
+      "id": "sci-q9",
+      "question": "What is the process by which plants make their own food?",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Digestion",
+        "Fermentation"
+      ],
+      "correctAnswer": "Photosynthesis",
+      "explanation": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with carbon dioxide and water."
+    },
+    {
+      "id": "sci-q10",
+      "question": "Which of these is NOT a type of electromagnetic radiation?",
+      "options": [
+        "X-rays",
+        "Gamma rays",
+        "Sound waves",
+        "Ultraviolet rays"
+      ],
+      "correctAnswer": "Sound waves",
+      "explanation": "Sound waves are mechanical waves that require a medium to travel through, unlike electromagnetic radiation which can travel through a vacuum."
+    }
+  ]
+}
